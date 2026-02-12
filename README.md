@@ -12,7 +12,8 @@
 
 ## 📸 Vista Previa
 *(Aquí insertas un pantallazo o un GIF bajando por la historia)*
-![Preview de la Historia](img/preview_storymap.gif)
+![Preview de la Historia](<img width="1913" height="893" alt="Screenshot 2026-02-12 111850" src="https://github.com/user-attachments/assets/7d2e0b77-5f4b-4b10-bd68-e130b33e0df9" />
+)
 
 ## 📝 Sobre el Proyecto
 Esta pieza digital utiliza la tecnología de **ArcGIS StoryMaps** para combinar:
